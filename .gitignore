@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# cube ide build output and mac os junk
+Debug/
+Release/
+*.cyclo
+.DS_Store
